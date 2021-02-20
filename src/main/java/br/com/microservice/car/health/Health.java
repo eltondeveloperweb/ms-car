@@ -10,7 +10,7 @@ public class Health {
 	
 	@GetMapping
 	public String health() {
-		return "REST API IS WORKING...";
+		return "*** REST API IS WORKING ------------";
 	}
 
 }
